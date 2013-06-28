@@ -1,0 +1,4 @@
+magento
+=======
+
+Few magento snippets
